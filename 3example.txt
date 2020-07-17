@@ -1,0 +1,8 @@
+If you don't like patitos, then you can choose another animal:
+
+Pollo
+Gallo
+Perro
+Chanchito
+
+For more options we suggest using Google.
